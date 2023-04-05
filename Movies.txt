@@ -1,0 +1,217 @@
+Dangerous Lies       
+2D
+Romantic
+2021/01/11
+10:00
+16
+3
+The fault in our stars
+3D
+Romantic
+2021/01/12
+12:00
+16
+3
+Five feet apart      
+2D
+Romantic
+2021/01/13
+12:00
+16
+1
+After we met        
+3D
+Romantic
+2021/01/17
+10:00
+14
+2
+Interstellar          
+4DX
+Sci-Fi
+2021/01/15
+17:00
+16
+2
+Inception            
+3D
+Sci-Fi
+2021/01/16
+18:00
+16
+1
+Holidate             
+2D
+Holidays
+2021/01/14
+20:00
+14
+2
+The Princess Switch   
+3D
+Holidays
+2021/01/11
+16:00
+8
+3
+Bad Boys 3          
+4DX
+Action
+2021/01/15
+21:00
+16
+2
+Mad Max                
+4DX
+Action
+2021/01/17
+19:00
+16
+2
+The driver            
+7D
+Action
+2021/01/12
+21:00
+16
+3
+Faster                 
+2D
+Action
+2021/01/16
+22:00
+14
+1
+The Invitation       
+3D
+Horror
+2021/01/13
+19:00
+18
+3
+Anabelle               
+7D
+Horror
+2021/01/15
+21:00
+18
+2
+It                 
+4DX
+Horror
+2021/01/12
+20:00
+18
+1
+The Conjuring      
+3D
+Horror
+2021/01/17
+23:00
+18
+1
+The Cabin in the Woods
+2D
+Horror
+2021/01/16
+16:00
+18
+3
+Insidious              
+3D
+Horror
+2021/01/14
+22:00
+16
+2
+Jumanji            
+2D
+Comedy
+2021/01/11
+20:00
+14
+3
+John Wick          
+3D
+Thriller
+2021/01/15
+17:00
+16
+1
+Creed             
+7D
+Athletics
+2021/01/11
+18:00
+16
+2
+Creed ll            
+4DX
+Athletics
+2021/01/12
+20:00
+16
+2
+Cinderella man       
+3D
+Athletics
+2021/01/16
+17:00
+16
+3
+The fighter        
+2D
+Athletics
+2021/01/14
+19:00
+14
+1
+Moana                  
+2D
+Animation
+2021/01/11
+11:00
+7
+1
+Frozen             
+3D
+Animation
+2021/01/13
+12:00
+7
+2
+The Grinch         
+3D
+Animation
+2021/01/16
+17:00
+7
+1
+Home alone         
+3D
+Comedy
+2021/01/17
+20:00
+12
+3
+Chaos Walking      
+2D
+Horror
+Coming soon
+Coming soon
+18
+1
+Morbius             
+3D
+Action
+Coming soon
+Coming soon
+16
+2
+Black Widow           
+3D
+Action
+Coming soon
+Coming soon
+16
+3 

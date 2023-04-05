@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1609759482 source:c:\users\timici\onedrive\desktop\utcn\computer programming\cinematicketing\cinema ticketing v4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"InOut.h"
+	"InOut.c"
+	"Searches.h"
+	"MatrixManagement.c"
+
+1609759043 c:\users\timici\onedrive\desktop\utcn\computer programming\cinematicketing\cinema ticketing v4\inout.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1609758862 c:\users\timici\onedrive\desktop\utcn\computer programming\cinematicketing\cinema ticketing v4\inout.c
+	"InOut.h"
+	"Searches.c"
+
+1609757388 c:\users\timici\onedrive\desktop\utcn\computer programming\cinematicketing\cinema ticketing v4\searches.h
+
+1609757211 c:\users\timici\onedrive\desktop\utcn\computer programming\cinematicketing\cinema ticketing v4\searches.c
+	<stdbool.h>
+	"Searches.h"
+
+1609759093 c:\users\timici\onedrive\desktop\utcn\computer programming\cinematicketing\cinema ticketing v4\matrixmanagement.c
+	"MatrixManagement.h"
+
+1609748402 c:\users\timici\onedrive\desktop\utcn\computer programming\cinematicketing\cinema ticketing v4\matrixmanagement.h
+
+1609766811 source:c:\users\timici\onedrive\desktop\utcn\computer programming\cinematicketing\cinema ticketing v6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"InOut.h"
+	"InOut.c"
+	"Searches.h"
+	"MatrixManagement.c"
+
+1609767865 c:\users\timici\onedrive\desktop\utcn\computer programming\cinematicketing\cinema ticketing v6\inout.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1609767866 c:\users\timici\onedrive\desktop\utcn\computer programming\cinematicketing\cinema ticketing v6\inout.c
+	"InOut.h"
+	"Searches.c"
+
+1609767741 c:\users\timici\onedrive\desktop\utcn\computer programming\cinematicketing\cinema ticketing v6\searches.c
+	<stdbool.h>
+	"Searches.h"
+
+1609757388 c:\users\timici\onedrive\desktop\utcn\computer programming\cinematicketing\cinema ticketing v6\searches.h
+
+1609766493 c:\users\timici\onedrive\desktop\utcn\computer programming\cinematicketing\cinema ticketing v6\matrixmanagement.c
+	"MatrixManagement.h"
+
+1609748402 c:\users\timici\onedrive\desktop\utcn\computer programming\cinematicketing\cinema ticketing v6\matrixmanagement.h
+
+1609778177 source:c:\users\timici\onedrive\desktop\utcn\computer programming\cinematicketing\cinema ticketing new\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"InOut.h"
+	"InOut.c"
+	"Searches.h"
+	"MatrixManagement.c"
+
+1609778108 c:\users\timici\onedrive\desktop\utcn\computer programming\cinematicketing\cinema ticketing new\inout.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1609778108 c:\users\timici\onedrive\desktop\utcn\computer programming\cinematicketing\cinema ticketing new\inout.c
+	"InOut.h"
+	"Searches.c"
+
+1609772882 c:\users\timici\onedrive\desktop\utcn\computer programming\cinematicketing\cinema ticketing new\searches.c
+	<stdbool.h>
+	"Searches.h"
+
+1609757388 c:\users\timici\onedrive\desktop\utcn\computer programming\cinematicketing\cinema ticketing new\searches.h
+
+1609778427 c:\users\timici\onedrive\desktop\utcn\computer programming\cinematicketing\cinema ticketing new\matrixmanagement.c
+	"MatrixManagement.h"
+
+1609778120 c:\users\timici\onedrive\desktop\utcn\computer programming\cinematicketing\cinema ticketing new\matrixmanagement.h
+
